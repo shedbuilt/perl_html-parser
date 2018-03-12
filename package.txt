@@ -1,0 +1,8 @@
+NAME=perl_html-parser
+VERSION=3.72
+REVISION=1
+LICENSE=Artistic-1.0-Perl
+SRC=http://search.cpan.org/CPAN/authors/id/G/GA/GAAS/HTML-Parser-3.72.tar.gz
+SRCMD5=eb7505e5f626913350df9dd4a03d54a8
+BUILDDEPS=perl
+INSTALLDEPS=perl
